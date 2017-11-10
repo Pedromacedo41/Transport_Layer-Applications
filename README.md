@@ -8,6 +8,7 @@ Scripts de comunicação via chat e threading usando os protoclos UDP e TCP
 
 ````
     $ g++ -std=c++11 UDPThread.cpp -o udp -pthread
+    $ ./udp
     
 ````
 
