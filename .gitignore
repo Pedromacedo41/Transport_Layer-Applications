@@ -1,4 +1,4 @@
-* .so
-* .o
-* .class
-* .out
+*.so
+*.o
+*.class
+*.out
