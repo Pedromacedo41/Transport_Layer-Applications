@@ -1,7 +1,7 @@
-# Transport_Layer-Web-Chat-Applications
+# Transport_Layer-Web-Chat-Application
 
 C++ codes implements UDP and TCP tranport layer protocols with sockets and Threads to implement 
-multiple independent messages communication. The C++ librarios work **on linux**
+multiple independent messages communication. The C++ libraries run _**on linux**_
 
 
 ## Compilation trought terminal command on linux systems
